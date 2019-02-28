@@ -1,8 +1,11 @@
-<!DOCTYPE html>
-<html>
-<body>
-<div> bookmarks </div>
-<div> <%= @bookmarks %></div>
 
-</body>
-</html>
+<ul>
+<% @bookmarks.each do |bookmark| %>
+   <li id="bookmark-<%=bookmark.id%>">
+      <a href="<%= bookmark.url %>">
+     <%= bookmark.title %>
+     </a>
+ </li>
+ <% end %>
+
+</ul>
