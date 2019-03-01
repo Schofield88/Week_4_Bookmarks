@@ -17,8 +17,30 @@
         1,
         1,
         null,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/Users/student/Makers/Week_4/Day2/bookmarks/spec/features/delete_bookmarks_spec.rb": [
         1,
         null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        0,
+        0,
+        0,
         null,
         null
       ],
@@ -72,14 +94,14 @@
         1,
         1,
         null,
-        1,
+        0,
         null,
-        1,
-        1,
+        0,
+        0,
         null,
         null
       ]
     },
-    "timestamp": 1551373581
+    "timestamp": 1551440369
   }
 }
